@@ -1,0 +1,20 @@
+# Model file - too large for GitHub
+best_rf_model.pkl
+
+# Virtual environment
+.venv/
+venv/
+env/
+
+# Gradio
+.gradio/
+
+# IDE
+.vscode/
+.idea/
+*.pyc
+__pycache__/
+
+# OS
+.DS_Store
+Thumbs.db
